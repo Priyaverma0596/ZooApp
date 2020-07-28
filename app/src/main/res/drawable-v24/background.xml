@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item>
+        <shape>
+            <solid android:color="@color/white"/>
+            <corners android:radius="3pt"></corners>
+            <padding android:top="3dp"
+                android:right="3dp"
+                android:left="3dp"
+                android:bottom="3dp">
+            </padding>
+        </shape>
+    </item>
+
+</selector>
